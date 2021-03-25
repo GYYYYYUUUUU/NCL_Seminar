@@ -2,7 +2,7 @@
 
 By Members of [KAIST NCL](http://ncl.kaist.ac.kr)
 
-* If your willing to share the notes, please talk to Gyusang Cho.
+* If you are willing to share the notes, please talk to Gyusang Cho.
 
 
 ## Contents
