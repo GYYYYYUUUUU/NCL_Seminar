@@ -14,5 +14,5 @@ Numbers|Date|Topic|Materials| Speaker
 3|21.04.02|Surprise Minimizing Reinforcement Learning |notes| Kyungchae Lee
 4|21.04.09|Gradient Based Sample Selection on Online Learning|notes| Changha Lee
 5|21.04.16|Adversarial Robustness and Generalization|notes| Gyusang Cho
-6|21.04.23| [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf )|notes| Ying Hui Tan (scheduled)
+6|21.04.23| [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf )|notes| Ying Hui Tan 
 7|21.04.30||notes| Jeongwon Lee (scheduled)
