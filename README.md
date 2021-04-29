@@ -11,11 +11,11 @@ Numbers|Date|Topic|Materials| Speaker
 -------|-------|------|-------|-----
 1|21.03.19|Zero shot learning using Graph Neural network|notes| Linh Le Vu
 2|21.03.26|Attention Mechanisms and its applications on CNNs|notes| Tuan Manh Tao 
-3|21.04.02|Surprise Minimizing Reinforcement Learning |notes| Kyungchae Lee
-4|21.04.09|Gradient Based Sample Selection on Online Learning|notes| Changha Lee
-5|21.04.16|Adversarial Robustness and Generalization|notes| Gyusang Cho
+3|21.04.02|[Surprise Minimizing Reinforcement Learning](https://arxiv.org/pdf/1912.05510.pdf) |notes| Kyungchae Lee
+4|21.04.09|[Gradient Based Sample Selection on Online Learning](https://arxiv.org/pdf/1903.08671.pdf)|notes| Changha Lee
+5|21.04.16|[Adversarial Robustness and Generalization]|notes| Gyusang Cho
 6|21.04.23| [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf )|notes| Ying Hui Tan 
-7|21.04.30|FastAI : A Layered API for Deep Learning|notes| Jeongwon Lee
+7|21.04.30|[FastAI : A Layered API for Deep Learning](https://www.mdpi.com/2078-2489/11/2/108/htm)|notes| Jeongwon Lee
 8|21.05.07||notes| Linh Le Vu
 9|21.05.14||notes| Tuan Manh Tao 
 10|21.05.21||notes| Kyungchae Lee
