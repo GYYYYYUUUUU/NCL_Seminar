@@ -21,6 +21,6 @@ Numbers|Date|Topic|Materials| Speaker
 9|21.05.14|Neural Architecture Search in Constrained Resource System|notes| Tuan Manh Tao 
 10|21.05.21|Efficient Semantic Segmentation|notes| Kyungchae Lee
 11|21.06.04|Real-Time Directed Acyclic Graph(DAG) Task Scheduling|notes| Changha Lee
-12|21.06.18||notes| Gyusang Cho
+12|21.06.18|Loss Landscapes, Ensembles|notes| Gyusang Cho
 13|21.06.25| |notes| Ying Hui Tan 
 14|21.07.02||notes| Jeongwon Lee
