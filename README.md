@@ -20,7 +20,7 @@ Numbers|Date|Topic|Materials| Speaker
 8|21.05.07|[Break down the idea of GCN]()|notes| Linh Le Vu
 9|21.05.14|Neural Architecture Search in Constrained Resource System|notes| Tuan Manh Tao 
 10|21.05.21|Efficient Semantic Segmentation|notes| Kyungchae Lee
-11|21.05.28|Real-Time Directed Acyclic Graph(DAG) Task Scheduling|notes| Changha Lee
-12|21.06.04||notes| Gyusang Cho
-13|21.06.11| |notes| Ying Hui Tan 
-14|21.06.18||notes| Jeongwon Lee
+11|21.06.04|Real-Time Directed Acyclic Graph(DAG) Task Scheduling|notes| Changha Lee
+12|21.06.18||notes| Gyusang Cho
+13|21.06.25| |notes| Ying Hui Tan 
+14|21.07.02||notes| Jeongwon Lee
