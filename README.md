@@ -23,4 +23,4 @@ Numbers|Date|Topic|Materials| Speaker
 11|21.06.04|Real-Time Directed Acyclic Graph(DAG) Task Scheduling|notes| Changha Lee
 12|21.06.18|Loss Landscapes, Ensembles|notes| Gyusang Cho
 13|21.06.25|[When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)|notes| Ying Hui Tan 
-14|21.07.02||notes| Jeongwon Lee
+14|21.07.02|[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)|notes| Jeongwon Lee
