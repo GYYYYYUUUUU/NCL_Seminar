@@ -24,8 +24,8 @@ Numbers|Date|Topic|Materials| Speaker
 12|21.06.18|Loss Landscapes, Ensembles|notes| Gyusang Cho
 13|21.06.25|[When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)|notes| Ying Hui Tan 
 14|21.07.02|[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)|notes| Jeongwon Lee
-15|21.07.09|[]()|notes| Linh Le Vu
--|21.07.09|[]()|notes| Tao Tuan Manh
+15|21.07.09|[Graph agent in reinforcement learning]()|notes| Linh Le Vu
+-|21.07.09|[NAS on large-scale target space]()|notes| Tao Tuan Manh
 16|21.07.16|[]()|notes| Gyusang Cho
 -|21.07.16|[]()|notes| Ying Hui Tan
 17|21.07.23|[]()|notes| Jeongwon Lee
