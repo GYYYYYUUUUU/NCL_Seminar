@@ -24,3 +24,19 @@ Numbers|Date|Topic|Materials| Speaker
 12|21.06.18|Loss Landscapes, Ensembles|notes| Gyusang Cho
 13|21.06.25|[When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)|notes| Ying Hui Tan 
 14|21.07.02|[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)|notes| Jeongwon Lee
+15|21.07.09|[]()|notes| Linh Le Vu
+-|21.07.09|[]()|notes| Tao Tuan Manh
+16|21.07.16|[]()|notes| Gyusang Cho
+-|21.07.16|[]()|notes| Ying Hui Tan
+17|21.07.23|[]()|notes| Jeongwon Lee
+-|21.07.23|[]()|notes| Linh Le Vu
+18|21.07.30|[]()|notes| Tao Tuan Manh
+-|21.07.30|[]()|notes| Gyusang Cho
+19|21.08.06|[]()|notes| Kyungchae Lee
+-|21.08.06|[]()|notes| Changha Lee
+20|21.08.13|[]()|notes| YingHui Tan
+-|21.08.13|[]()|notes| Jeongwon Lee
+21|21.08.20|[]()|notes| Linh Le Vu
+-|21.08.20|[]()|notes| Tao Tuan Manh
+22|21.08.27|[]()|notes| Kyungchae Lee
+-|21.08.27|[]()|notes| Changha Lee
