@@ -27,7 +27,7 @@ Numbers|Date|Topic|Materials| Speaker
 15|21.07.09|[Graph agent in reinforcement learning]()|notes| Linh Le Vu
 -|21.07.09|[NAS on large-scale target space]()|notes| Tao Tuan Manh
 16|21.07.16|[Loss Landscapes, Ensembles 2]()|notes| Gyusang Cho
--|21.07.16|[Clean Code, ML]()|notes| Ying Hui Tan
+-|21.07.16|[Clean Code, ML](https://github.com/davified/clean-code-ml)|notes| Ying Hui Tan
 17|21.07.23|[]()|notes| Jeongwon Lee
 -|21.07.23|[]()|notes| Linh Le Vu
 18|21.07.30|[]()|notes| Tao Tuan Manh
