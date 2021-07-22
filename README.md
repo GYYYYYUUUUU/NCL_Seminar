@@ -28,8 +28,8 @@ Numbers|Date|Topic|Materials| Speaker
 -|21.07.09|[NAS on large-scale target space]()|notes| Tao Tuan Manh
 16|21.07.16|[Loss Landscapes, Ensembles 2]()|notes| Gyusang Cho
 -|21.07.16|[Clean Code, ML](https://github.com/davified/clean-code-ml)|notes| Ying Hui Tan
-17|21.07.23|[]()|notes| Jeongwon Lee
--|21.07.23|[]()|notes| Linh Le Vu
+17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting]()|notes| Jeongwon Lee
+-|21.07.23|[Graph agent in reinforcement learning - part 2]()|notes| Linh Le Vu
 18|21.07.30|[]()|notes| Tao Tuan Manh
 -|21.07.30|[]()|notes| Gyusang Cho
 19|21.08.06|[]()|notes| Kyungchae Lee
