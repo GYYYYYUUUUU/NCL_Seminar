@@ -31,7 +31,6 @@ Numbers|Date|Topic|Materials| Speaker
 17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting]()|notes| Jeongwon Lee
 -|21.07.23|[Graph agent in reinforcement learning - part 2]()|notes| Linh Le Vu
 18|21.07.30|[GPU Scheduling in Multiple Resources]()|notes| Tao Tuan Manh
-<!-- -|21.07.30|[]()|notes| Gyusang Cho -->
 19|21.08.06|[]()|notes| Kyungchae Lee
 -|21.08.06|[]()|notes| Changha Lee
 20|21.08.13|[]()|notes| YingHui Tan
