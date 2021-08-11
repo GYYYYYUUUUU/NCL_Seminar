@@ -31,8 +31,8 @@ Numbers|Date|Topic|Materials| Speaker
 17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting]()|notes| Jeongwon Lee
 -|21.07.23|[Graph agent in reinforcement learning - part 2]()|notes| Linh Le Vu
 18|21.07.30|[GPU Scheduling in Multiple Resources]()|notes| Tao Tuan Manh
-19|21.08.06|[]()|notes| Kyungchae Lee
--|21.08.06|[]()|notes| Changha Lee
+19|21.08.06|[Basic Concept of the Policy Gradient]()|notes| Kyungchae Lee
+-|21.08.06|[About Layerwise or Decentralized Deep Learning for On-device Computing]()|notes| Changha Lee
 20|21.08.13|[]()|notes| YingHui Tan
 -|21.08.13|[]()|notes| Jeongwon Lee
 21|21.08.20|[]()|notes| Linh Le Vu
