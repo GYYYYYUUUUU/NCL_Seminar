@@ -33,8 +33,8 @@ Numbers|Date|Topic|Materials| Speaker
 18|21.07.30|[GPU Scheduling in Multiple Resources]()|notes| Tao Tuan Manh
 19|21.08.06|[Basic Concept of the Policy Gradient]()|notes| Kyungchae Lee
 -|21.08.06|[About Layerwise or Decentralized Deep Learning for On-device Computing]()|notes| Changha Lee
-20|21.08.13|[]()|notes| YingHui Tan
--|21.08.13|[]()|notes| Jeongwon Lee
+20|21.08.13|[Pytorch-Lightning]()|notes| YingHui Tan
+-|21.08.13|[Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks]()|notes| Jeongwon Lee
 21|21.08.20|[]()|notes| Linh Le Vu
 -|21.08.20|[]()|notes| Tao Tuan Manh
 22|21.08.27|[]()|notes| Kyungchae Lee
