@@ -24,18 +24,18 @@ Numbers|Date|Topic|Materials| Speaker
 12|21.06.18|Loss Landscapes, Ensembles|notes| Gyusang Cho
 13|21.06.25|[When Does Label Smoothing Help?](https://arxiv.org/abs/1906.02629)|notes| Ying Hui Tan 
 14|21.07.02|[Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles](https://arxiv.org/abs/1603.09246)|notes| Jeongwon Lee
-15|21.07.09|[Graph agent in reinforcement learning]()|notes| Linh Le Vu
--|21.07.09|[NAS on large-scale target space]()|notes| Tao Tuan Manh
-16|21.07.16|[Loss Landscapes, Ensembles 2]()|notes| Gyusang Cho
+15|21.07.09|Graph agent in reinforcement learning|notes| Linh Le Vu
+-|21.07.09|NAS on large-scale target space|notes| Tao Tuan Manh
+16|21.07.16|Loss Landscapes, Ensembles 2|notes| Gyusang Cho
 -|21.07.16|[Clean Code, ML](https://github.com/davified/clean-code-ml)|notes| Ying Hui Tan
 17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting](https://arxiv.org/pdf/2011.02136.pdf)|notes| Jeongwon Lee
--|21.07.23|[Graph agent in reinforcement learning - part 2]()|notes| Linh Le Vu
-18|21.07.30|[GPU Scheduling in Multiple Resources]()|notes| Tao Tuan Manh
+-|21.07.23|Graph agent in reinforcement learning - part 2|notes| Linh Le Vu
+18|21.07.30|GPU Scheduling in Multiple Resources|notes| Tao Tuan Manh
 19|21.08.06|[Basic Concept of the Policy Gradient](https://papers.nips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)|notes| Kyungchae Lee
--|21.08.06|[About Layerwise or Decentralized Deep Learning for On-device Computing]()|notes| Changha Lee
+-|21.08.06|About Layerwise or Decentralized Deep Learning for On-device Computing|notes| Changha Lee
 20|21.08.13|[Pytorch-Lightning](https://www.pytorchlightning.ai/)|notes| YingHui Tan
 -|21.08.13|[Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks](https://www.mdpi.com/1424-8220/21/10/3434)|notes| Jeongwon Lee
-21|21.08.20|[Deep Learning on Point Clouds]()|notes| Linh Le Vu
--|21.08.20|[Distributed NAS Framework]()|notes| Tao Tuan Manh
+21|21.08.20|Deep Learning on Point Clouds|notes| Linh Le Vu
+-|21.08.20|Distributed NAS Framework|notes| Tao Tuan Manh
 22|21.08.27|[]()|notes| Kyungchae Lee
 -|21.08.27|[]()|notes| Changha Lee
