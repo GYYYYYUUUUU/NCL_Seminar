@@ -17,7 +17,7 @@ Numbers|Date|Topic|Materials| Speaker
 |||*[Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/pdf/1706.06083.pdf)<br\> *[Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572.pdf)\ *[Towards Evaluating the Robustness of Neural Networks]()\ *[Practical Black-Box Attacks against Machine Learning]()\ *[Stochastic Activation Pruning for Robust Adversarial Defense]()|
 6|21.04.23| [What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?](https://arxiv.org/pdf/1703.04977.pdf )|notes| Ying Hui Tan 
 7|21.04.30|[FastAI : A Layered API for Deep Learning](https://www.mdpi.com/2078-2489/11/2/108/htm)|notes| Jeongwon Lee
-8|21.05.07|[Break down the idea of GCN]()|notes| Linh Le Vu
+8|21.05.07|Break down the idea of GCN|notes| Linh Le Vu
 9|21.05.14|Neural Architecture Search in Constrained Resource System|notes| Tuan Manh Tao 
 10|21.05.21|Efficient Semantic Segmentation|notes| Kyungchae Lee
 11|21.06.04|Real-Time Directed Acyclic Graph(DAG) Task Scheduling|notes| Changha Lee
@@ -28,13 +28,13 @@ Numbers|Date|Topic|Materials| Speaker
 -|21.07.09|[NAS on large-scale target space]()|notes| Tao Tuan Manh
 16|21.07.16|[Loss Landscapes, Ensembles 2]()|notes| Gyusang Cho
 -|21.07.16|[Clean Code, ML](https://github.com/davified/clean-code-ml)|notes| Ying Hui Tan
-17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting]()|notes| Jeongwon Lee
+17|21.07.23|[Interpretable Representation Learning for Speech and Audio Signals Based on Relevance Weighting](https://arxiv.org/pdf/2011.02136.pdf)|notes| Jeongwon Lee
 -|21.07.23|[Graph agent in reinforcement learning - part 2]()|notes| Linh Le Vu
 18|21.07.30|[GPU Scheduling in Multiple Resources]()|notes| Tao Tuan Manh
-19|21.08.06|[Basic Concept of the Policy Gradient]()|notes| Kyungchae Lee
+19|21.08.06|[Basic Concept of the Policy Gradient](https://papers.nips.cc/paper/1999/file/464d828b85b0bed98e80ade0a5c43b0f-Paper.pdf)|notes| Kyungchae Lee
 -|21.08.06|[About Layerwise or Decentralized Deep Learning for On-device Computing]()|notes| Changha Lee
-20|21.08.13|[Pytorch-Lightning]()|notes| YingHui Tan
--|21.08.13|[Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks]()|notes| Jeongwon Lee
+20|21.08.13|[Pytorch-Lightning](https://www.pytorchlightning.ai/)|notes| YingHui Tan
+-|21.08.13|[Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks](https://www.mdpi.com/1424-8220/21/10/3434)|notes| Jeongwon Lee
 21|21.08.20|[Deep Learning on Point Clouds]()|notes| Linh Le Vu
 -|21.08.20|[Distributed NAS Framework]()|notes| Tao Tuan Manh
 22|21.08.27|[]()|notes| Kyungchae Lee
