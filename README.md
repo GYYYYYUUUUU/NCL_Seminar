@@ -37,5 +37,5 @@ Numbers|Date|Topic|Materials| Speaker
 -|21.08.13|[Benchmarking Audio Signal Representation Techniques for Classification with Convolutional Neural Networks](https://www.mdpi.com/1424-8220/21/10/3434)|notes| Jeongwon Lee
 21|21.08.20|Deep Learning on Point Clouds|notes| Linh Le Vu
 -|21.08.20|Distributed NAS Framework|notes| Tao Tuan Manh
-22|21.08.27|[]()|notes| Kyungchae Lee
--|21.08.27|[]()|notes| Changha Lee
+22|21.10.01|[Image Classification at Extreme : Achieving ultimate accuracy on networks]()|notes| Gyusang Cho
+23|21.10.08|[]()|notes| 
