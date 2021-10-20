@@ -38,4 +38,4 @@ Numbers|Date|Topic|Materials| Speaker
 21|21.08.20|Deep Learning on Point Clouds|notes| Linh Le Vu
 -|21.08.20|Distributed NAS Framework|notes| Tao Tuan Manh
 22|21.10.01|[Image Classification at Extreme : Achieving ultimate accuracy on networks]()|notes| Gyusang Cho
-23|21.10.08|[]()|notes| 
+23|21.10.08|[Bloom Filters]()|notes|Jeongwon Lee 
