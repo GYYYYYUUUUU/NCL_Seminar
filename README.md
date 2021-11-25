@@ -40,3 +40,5 @@ Numbers|Date|Topic|Materials| Speaker
 22|21.10.01|[Image Classification at Extreme : Achieving ultimate accuracy on networks]()|notes| Gyusang Cho
 23|21.10.15|[Bloom Filters]()|notes|Jeongwon Lee
 24|21.10.29|[Uncertainty Estimation Using a Single Deep Deterministic Neural Network]()|notes|YingHui Tan 
+25|21.11.05|[Grad-CAM]()|notes|Dinh Tuyen 
+26|21.11.19|[De-Coupled Network]()|notes|Tao Tuan Manh 
