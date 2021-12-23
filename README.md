@@ -42,3 +42,6 @@ Numbers|Date|Topic|Materials| Speaker
 24|21.10.29|[Uncertainty Estimation Using a Single Deep Deterministic Neural Network]()|notes|YingHui Tan 
 25|21.11.05|[Grad-CAM]()|notes|Dinh Tuyen 
 26|21.11.19|[De-Coupled Network]()|notes|Tao Tuan Manh 
+27|21.12.10|[Satellite Image Analysis]()|notes|Alexandr Ukhatov 
+28|21.12.17|[Reinforcement-Learning-based]()|notes|Kyungchae Lee
+29|21.12.24|[Causal Identification ]()|notes|Changha Lee 
