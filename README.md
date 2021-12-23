@@ -39,9 +39,9 @@ Numbers|Date|Topic|Materials| Speaker
 -|21.08.20|Distributed NAS Framework|notes| Tao Tuan Manh
 22|21.10.01|[Image Classification at Extreme : Achieving ultimate accuracy on networks]()|notes| Gyusang Cho
 23|21.10.15|[Bloom Filters]()|notes|Jeongwon Lee
-24|21.10.29|[Uncertainty Estimation Using a Single Deep Deterministic Neural Network]()|notes|YingHui Tan 
-25|21.11.05|[Grad-CAM]()|notes|Dinh Tuyen 
+24|21.10.29|[Uncertainty Estimation Using a Single Deep Deterministic Neural Network](https://arxiv.org/pdf/2003.02037.pdf)|notes|YingHui Tan 
+25|21.11.05|[Grad-CAM](https://arxiv.org/pdf/1610.02391.pdf)|notes|Dinh Tuyen 
 26|21.11.19|[De-Coupled Network]()|notes|Tao Tuan Manh 
-27|21.12.10|[Satellite Image Analysis]()|notes|Alexandr Ukhatov 
+27|21.12.10|[On-board Real-Time Ship Detection in HISEA-1 SAR Images based on CFAR and Lightweight Deep Learning](https://www.mdpi.com/2072-4292/13/10/1995)|notes|Alexandr Ukhatov 
 28|21.12.17|[Reinforcement-Learning-based]()|notes|Kyungchae Lee
-29|21.12.24|[Causal Identification ]()|notes|Changha Lee 
+29|21.12.24|[Causal Identification ](https://causalai.net/r70.pdf)|notes|Changha Lee 
