@@ -44,4 +44,4 @@ Numbers|Date|Topic|Materials| Speaker
 26|21.11.19|[De-Coupled Network]()|notes|Tao Tuan Manh 
 27|21.12.10|[On-board Real-Time Ship Detection in HISEA-1 SAR Images based on CFAR and Lightweight Deep Learning](https://www.mdpi.com/2072-4292/13/10/1995)|notes|Alexandr Ukhatov 
 28|21.12.17|[Reinforcement-Learning-based]()|notes|Kyungchae Lee
-29|21.12.24|[Causal Identification ](https://causalai.net/r70.pdf)|notes|Changha Lee 
+29|21.12.24|[Causal Identification ](https://causalai.net/r70.pdf)|[notes]()|Changha Lee 
