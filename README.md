@@ -45,3 +45,9 @@ Numbers|Date|Topic|Materials| Speaker
 27|21.12.10|[On-board Real-Time Ship Detection in HISEA-1 SAR Images based on CFAR and Lightweight Deep Learning](https://www.mdpi.com/2072-4292/13/10/1995)|notes|Alexandr Ukhatov 
 28|21.12.17|[Reinforcement-Learning-based]()|notes|Kyungchae Lee
 29|21.12.24|[Causal Identification ](https://causalai.net/r70.pdf)|[notes]()|Changha Lee 
+30|22.01.07|[Deep Image Priors and Evolution]()|[notes]()|Gyusang Cho 
+30|22.01.07|[Gesture-based interactions with objects]()|[notes]()|Jeongwon Lee 
+31|22.01.14|[]()|[notes]()|YingHui Tan
+31|22.01.14|[]()|[notes]()|Tuyen Dinh
+32|22.01.21|[]()|[notes]()|
+32|22.01.21|[]()|[notes]()|
