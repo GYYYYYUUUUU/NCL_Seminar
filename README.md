@@ -50,5 +50,3 @@ Numbers|Date|Topic|Materials| Speaker
 31|22.01.14|[]()|[notes]()|YingHui Tan
 31|22.01.14|[]()|[notes]()|Tuyen Dinh
 37|22.03.18|[Multi-model Machine Learning Inference Serving with GPU Spatial Partitioning]()|[notes]()|Tao Tuan Manh
-
-"Multi-model Machine Learning Inference Serving with GPU Spatial Partitioning"
