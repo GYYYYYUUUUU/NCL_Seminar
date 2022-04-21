@@ -53,3 +53,4 @@ Numbers|Date|Topic|Materials| Speaker
 39|22.03.25|[]()|[notes]()|Alexandr
 40|22.04.01|[Unsupervised Sound Separation Using Mixture Invariant Training](https://proceedings.neurips.cc/paper/2020/hash/28538c394c36e4d5ea8ff5ad60562a93-Abstract.html)|[notes]()|Kyungchae Lee
 41|22.04.15|[GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs]()|[notes]()|Changha Lee
+42|22.04.22|[Wasserstein GAN]()|[notes]()|Eunju Yang
