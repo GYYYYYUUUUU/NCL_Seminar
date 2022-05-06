@@ -55,3 +55,4 @@ Numbers|Date|Topic|Materials| Speaker
 41|22.04.15|[GNNAdvisor: An Adaptive and Efficient Runtime System for GNN Acceleration on GPUs]()|[notes]()|Changha Lee
 42|22.04.22|[Wasserstein GAN]()|[notes]()|Eunju Yang
 43|22.04.29|[Learning with Noisy Labels](https://arxiv.org/abs/2007.08199)|[notes]()|Gyusang Cho
+44|22.05.06|[Annulus: A Dual Congestion Control Loop for Datacenter and WAN Traffic Aggregates](https://dl.acm.org/doi/10.1145/3387514.3405899)|[notes]()|Jeongwon Lee
