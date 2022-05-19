@@ -57,3 +57,4 @@ Numbers|Date|Topic|Materials| Speaker
 43|22.04.29|[Learning with Noisy Labels](https://arxiv.org/abs/2007.08199)|[notes]()|Gyusang Cho
 44|22.05.06|[Annulus: A Dual Congestion Control Loop for Datacenter and WAN Traffic Aggregates](https://dl.acm.org/doi/10.1145/3387514.3405899)|[notes]()|Jeongwon Lee
 45|22.05.13|[Grokking : Generalization beyond Overfitting Small Algorithmic Datasets](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf)|[notes]()|Ying Hui Tan
+46|22.05.20|[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)|[notes]()|Tuyen Dinh
