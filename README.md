@@ -59,3 +59,7 @@ Numbers|Date|Topic|Materials| Speaker
 45|22.05.13|[Grokking : Generalization beyond Overfitting Small Algorithmic Datasets](https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf)|[notes]()|Ying Hui Tan
 46|22.05.20|[Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/abs/2103.14030)|[notes]()|Tuyen Dinh
 47|22.05.27|[Cluster-aware Object Detection on Aerial Images]()|[notes]()|Tao Tuan Manh
+48|22.06.03|[]()|[notes]()|Alexandr 
+49|22.06.10|[]()|[notes]()|Kyungchae Lee
+
+47|22.05.27|[Cluster-aware Object Detection on Aerial Images]()|[notes]()|Tao Tuan Manh
